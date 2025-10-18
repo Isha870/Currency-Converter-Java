@@ -36,7 +36,7 @@ This project demonstrates basic Java concepts like user input, conditional state
    
    ```
    git clone https://github.com/Isha870/Currency-Converter-Java.git
-````
+   ```
 
 2. Navigate to the project folder:
 

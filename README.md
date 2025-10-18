@@ -1,7 +1,3 @@
-Absolutely, Isha 💪
-Here’s your **corrected and perfectly formatted `README.md`** — clean, stylish, and GitHub-ready 👇
-
----
 
 ````markdown
 # 💱 Currency Converter (Java)

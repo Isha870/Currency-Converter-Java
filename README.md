@@ -35,28 +35,28 @@ This project demonstrates basic Java concepts like user input, conditional state
    git clone https://github.com/Isha870/Currency-Converter-Java.git
 
 Navigate to the project folder:
-'''
+---
 cd Currency-Converter-Java
-'''
+---
 
 Compile the program:
-'''
+---
 javac CurrencyConverter.java
-'''
+---
 
 Run the program:
-'''
+---
 java CurrencyConverter
-'''
+---
 
 output example:
-'''
+---
 Welcome to Currency Converter!
 Enter amount: 100
 Choose from currency (INR, USD, EUR): INR
 Choose to currency (INR, USD, EUR): USD
 Converted amount: 1.20 USD
-'''
+---
 
 🧩 Future Improvements
 

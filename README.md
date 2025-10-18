@@ -1,5 +1,3 @@
-
-````markdown
 # 💱 Currency Converter (Java)
 
 A simple **Currency Converter** application built using **Java** that allows users to convert one currency into another based on predefined exchange rates.  
@@ -24,6 +22,7 @@ This project demonstrates basic Java concepts like user input, conditional state
 
 ---
 
+
 ## 🛠️ Technologies Used
 - **Java (JDK 8 or above)**
 - **Scanner class** for user input
@@ -34,25 +33,26 @@ This project demonstrates basic Java concepts like user input, conditional state
 ## 💻 How to Run the Project
 
 1. Clone the repository:
-   ```bash
+   
+   ```
    git clone https://github.com/Isha870/Currency-Converter-Java.git
 ````
 
 2. Navigate to the project folder:
 
-   ```bash
+   ```
    cd Currency-Converter-Java
    ```
 
 3. Compile the program:
 
-   ```bash
+   ```
    javac CurrencyConverter.java
    ```
 
 4. Run the program:
 
-   ```bash
+   ```
    java CurrencyConverter
    ```
 
